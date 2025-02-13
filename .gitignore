@@ -1,4 +1,20 @@
-node_modules
-logs
-src/database/data.sqlite
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+
+# Database files
+src/database/*.sqlite
+src/database/*.db
+
+# Config files (sensible data)
 src/client/config.json
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
