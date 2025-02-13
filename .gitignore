@@ -11,7 +11,7 @@ logs/
 src/database/*.sqlite
 src/database/*.db
 
-# Config files (sensible data)
+# Config files (sensitive data)
 src/client/config.json
 .env
 
