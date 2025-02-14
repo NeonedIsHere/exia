@@ -1,0 +1,14 @@
+{
+    "token": "",
+    "botId": "",
+    "guildId": "",
+    "devId": [
+        ""
+    ],
+    "logChannel": {
+        "prevlogs": ""
+    },
+    "webhookLog": {
+        "error": ""
+    }
+}
